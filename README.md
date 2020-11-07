@@ -17,3 +17,4 @@ Otherwise, copy and paste the scripts to Google Colab
 
 ## Examples
 - binning_example
+- chi_square_example
