@@ -9,8 +9,7 @@
 ```
 virtualenv -p `which python3` venv
 source venv/bin/activate
-pip install jupyter
-pip install matplotlib
+pip install -r requirements.txt
 
 # You will probably need to install a Jupyter kernel:
 ipython kernel install --user --name=venv
