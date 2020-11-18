@@ -20,3 +20,8 @@ Otherwise, copy and paste the scripts to Google Colab
 ## Examples
 - binning_example
 - chi_square_example
+- DWT (wavelet transform)
+- PCA (principal components analysis on dummy dataset)
+- feature_selection
+
+- A playground with various simple examples
