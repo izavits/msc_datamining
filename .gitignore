@@ -3,3 +3,6 @@
 .ipynb_checkpoints/
 
 venv/
+
+# Other
+.DS_Store
