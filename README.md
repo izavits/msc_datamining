@@ -22,6 +22,12 @@ Otherwise, copy and paste the scripts to Google Colab
 - chi_square_example
 - DWT (wavelet transform)
 - PCA (principal components analysis on dummy dataset)
+- normalization
+- k-means discretization
 - feature_selection
+- decision_trees
+- KNN
+- clustering_examples
+- Silhouette_coefficient
 
 - A playground with various simple examples
