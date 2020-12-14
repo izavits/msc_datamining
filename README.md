@@ -29,5 +29,6 @@ Otherwise, copy and paste the scripts to Google Colab
 - KNN
 - clustering_examples
 - Silhouette_coefficient
+- Apriori_example
 
 - A playground with various simple examples
