@@ -30,5 +30,10 @@ Otherwise, copy and paste the scripts to Google Colab
 - clustering_examples
 - Silhouette_coefficient
 - Apriori_example
+- Outlier detection example
+- Data drift example
+- Word2Vec example
+- Language modeling
 
 - A playground with various simple examples
+- A movie recommendation mini project
